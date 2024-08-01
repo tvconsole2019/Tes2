@@ -7,6 +7,8 @@
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
-		    "Gain a free [Pantheon] belief <upon founding a Pantheon> <for [Human player]>"]
+		    "Gain enough Faith for a Pantheon <for [Human player]>",
+		    "New spies start with [10] level(s) <for [Human player]>",
+		    "[-99]% enemy spy effectiveness [in all cities]"]
 	},
 ]
